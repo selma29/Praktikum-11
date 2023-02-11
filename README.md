@@ -142,7 +142,7 @@ dan menambahkan exceptions. Gunakan syntax berikut:
 Apabila terdapat KeyboardInterrupt maka akan memanggil except, contoh saat menekan CTRL + C maka akan terjadi
 KeyboardInterrupt yang akan memanggil except.
 
-## Hasil akhir Praktikum 6
+## Hasil akhir Praktikum 11
 
     x = {}
 
